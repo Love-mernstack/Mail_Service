@@ -63,8 +63,8 @@ const userMail = {
         Warm regards,<br>
         <strong>Love Maluja</strong><br>
         Full Stack Web Developer<br>
-        <a href="mailto:lovemaluja@example.com" style="color: #1e40af;">lovemaluja@example.com</a><br>
-        <a href="https://lovemaluja.dev" target="_blank" style="color: #1e40af;">lovemaluja.dev</a>
+        <a href="mailto:malujalove9@gmail.com" style="color: #1e40af;">malujalove9@gmail.com</a><br>
+        <a href="https://portfoliolove-gamma.vercel.app/" target="_blank" style="color: #1e40af;">https://portfoliolove-gamma.vercel.app/</a>
       </p>
 
       <hr style="margin-top: 30px; border-color: #ddd;" />
